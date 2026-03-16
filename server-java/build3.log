@@ -1,0 +1,12 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.prismhire:prismhire-backend >-------------------
+[INFO] Building prismhire-backend 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.3.2:clean (default-clean) @ prismhire-backend ---
+[INFO] Deleting C:\Users\chait\Desktop\WEB\PRISMHIRE\Prism Hire\server-java\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ prismhire-backend ---
+[INFO] Copying 1 resource from src\main\resources to target\classes

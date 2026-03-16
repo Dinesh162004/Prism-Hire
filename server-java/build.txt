@@ -1,0 +1,526 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< com.prismhire:prismhire-backend >-------------------
+[INFO] Building prismhire-backend 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.3.2:clean (default-clean) @ prismhire-backend ---
+[INFO] Deleting C:\Users\chait\Desktop\WEB\PRISMHIRE\Prism Hire\server-java\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ prismhire-backend ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ prismhire-backend ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 31 source files with javac [debug release 25] to target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[19,10] cannot find symbol
+  symbol:   method setUserId(java.lang.Long)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[20,10] cannot find symbol
+  symbol:   method setSessionId(long)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[21,10] cannot find symbol
+  symbol:   method setJobRole(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[22,10] cannot find symbol
+  symbol:   method setDifficulty(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[23,10] cannot find symbol
+  symbol:   method setQuestion(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[24,10] cannot find symbol
+  symbol:   method setShortAnswer(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[25,10] cannot find symbol
+  symbol:   method setLongAnswer(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[27,14] cannot find symbol
+  symbol:   method setOptions(java.util.List<java.lang.String>)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[30,14] cannot find symbol
+  symbol:   method setCorrectAnswer(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[31,10] cannot find symbol
+  symbol:   method setCompleted(boolean)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[38,14] cannot find symbol
+  symbol:   method setUserId(java.lang.Long)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[39,14] cannot find symbol
+  symbol:   method setSessionId(long)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[40,14] cannot find symbol
+  symbol:   method setJobRole(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[41,14] cannot find symbol
+  symbol:   method setDifficulty(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[42,14] cannot find symbol
+  symbol:   method setQuestion(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[43,14] cannot find symbol
+  symbol:   method setShortAnswer(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[44,14] cannot find symbol
+  symbol:   method setLongAnswer(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[46,18] cannot find symbol
+  symbol:   method setOptions(java.util.List<java.lang.String>)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[49,18] cannot find symbol
+  symbol:   method setCorrectAnswer(java.lang.String)
+  location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[26,10] cannot find symbol
+  symbol:   method setUserId(java.lang.Long)
+  location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[27,10] cannot find symbol
+  symbol:   method setSessionName(java.lang.String)
+  location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[28,10] cannot find symbol
+  symbol:   method setJobRole(java.lang.String)
+  location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[29,10] cannot find symbol
+  symbol:   method setYearsOfExperience(yearsOfExp[...] : "")
+  location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[30,10] cannot find symbol
+  symbol:   method setTopicsToFocus(topicsToFo[...] : "")
+  location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[31,10] cannot find symbol
+  symbol:   method setJobDescription(jobDescrip[...] : "")
+  location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[32,10] cannot find symbol
+  symbol:   method setActive(boolean)
+  location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[45,16] cannot find symbol
+  symbol:   method setActive(boolean)
+  location: variable session of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[26,20] cannot find symbol
+  symbol:   method getName()
+  location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[26,49] cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[26,79] cannot find symbol
+  symbol:   method getPassword()
+  location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[30,49] cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[35,29] cannot find symbol
+  symbol:   method getName()
+  location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[36,30] cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[37,56] cannot find symbol
+  symbol:   method getPassword()
+  location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[38,13] cannot find symbol
+  symbol:   method setProfilePicture(java.lang.String)
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[39,13] cannot find symbol
+  symbol:   method setTheme(com.prismhire.entity.User.Theme)
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[42,55] cannot find symbol
+  symbol:   method getId()
+  location: variable savedUser of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[42,74] cannot find symbol
+  symbol:   method getName()
+  location: variable savedUser of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[44,16] constructor AuthResponse in class com.prismhire.dto.AuthResponse cannot be applied to given types;
+  required: no arguments
+  found:    java.lang.String,com.prismhire.dto.AuthResponse.UserDto
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[48,55] cannot find symbol
+  symbol:   method getEmail()
+  location: variable request of type com.prismhire.dto.LoginRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[51,45] cannot find symbol
+  symbol:   method getPassword()
+  location: variable request of type com.prismhire.dto.LoginRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[51,65] cannot find symbol
+  symbol:   method getPassword()
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[55,50] cannot find symbol
+  symbol:   method getId()
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[55,64] cannot find symbol
+  symbol:   method getName()
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[56,16] constructor AuthResponse in class com.prismhire.dto.AuthResponse cannot be applied to given types;
+  required: no arguments
+  found:    java.lang.String,com.prismhire.dto.AuthResponse.UserDto
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,92] cannot find symbol
+  symbol:   method getProfilePicture()
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,75] cannot find symbol
+  symbol:   method getEmail()
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,59] cannot find symbol
+  symbol:   method getName()
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,45] cannot find symbol
+  symbol:   method getId()
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[20,15] cannot find symbol
+  symbol:   method setUserId(java.lang.Long)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[23,23] cannot find symbol
+  symbol:   method setSessionId(long)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[27,15] cannot find symbol
+  symbol:   method setJobRole(java.lang.String)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[28,15] cannot find symbol
+  symbol:   method setDifficulty(java.lang.String)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[29,15] cannot find symbol
+  symbol:   method setText(java.lang.String)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[30,15] cannot find symbol
+  symbol:   method setType(java.lang.String)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[32,19] cannot find symbol
+  symbol:   method setOptions(java.util.List<java.lang.String>)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[35,19] cannot find symbol
+  symbol:   method setCorrectAnswer(java.lang.String)
+  location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[36,17] cannot find symbol
+  symbol:   method setName(java.lang.String)
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[38,17] cannot find symbol
+  symbol:   method setEmail(java.lang.String)
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[40,17] cannot find symbol
+  symbol:   method setProfilePicture(body.get("[...] : "")
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[44,21] cannot find symbol
+  symbol:   method setTheme(com.prismhire.entity.User.Theme)
+  location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[55,22] cannot find symbol
+  symbol:   method getId()
+  location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[56,24] cannot find symbol
+  symbol:   method getName()
+  location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[57,25] cannot find symbol
+  symbol:   method getEmail()
+  location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[58,34] cannot find symbol
+  symbol:   method getProfilePicture()
+  location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[59,25] cannot find symbol
+  symbol:   method getTheme()
+  location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[60,29] cannot find symbol
+  symbol:   method getCreatedAt()
+  location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/ResumeController.java:[56,48] cannot find symbol
+  symbol:   method getId()
+  location: variable analysis of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[130,11] cannot find symbol
+  symbol:   method setUserId(java.lang.Long)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[131,11] cannot find symbol
+  symbol:   method setRole(java.lang.String)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[132,11] cannot find symbol
+  symbol:   method setJobDescription(java.lang.String)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[133,11] cannot find symbol
+  symbol:   method setResumeText(resumeText[...]eText)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[134,11] cannot find symbol
+  symbol:   method setResumeFileName(java.lang.String)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[135,11] cannot find symbol
+  symbol:   method setAtsScore(double)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[136,11] cannot find symbol
+  symbol:   method setSkillMatchScore(double)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[137,11] cannot find symbol
+  symbol:   method setKeywordMatchScore(double)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[138,11] cannot find symbol
+  symbol:   method setRoleRelevanceScore(double)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[139,11] cannot find symbol
+  symbol:   method setMatchedSkills(java.util.List<java.lang.String>)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[140,11] cannot find symbol
+  symbol:   method setMissingSkills(java.util.List<java.lang.String>)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[141,11] cannot find symbol
+  symbol:   method setMatchedKeywordsPercent(double)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[142,11] cannot find symbol
+  symbol:   method setSuggestions(java.util.List<java.lang.String>)
+  location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[INFO] 81 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.850 s
+[INFO] Finished at: 2026-03-11T19:46:50+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project prismhire-backend: Compilation failure: Compilation failure: 
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[19,10] cannot find symbol
+[ERROR]   symbol:   method setUserId(java.lang.Long)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[20,10] cannot find symbol
+[ERROR]   symbol:   method setSessionId(long)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[21,10] cannot find symbol
+[ERROR]   symbol:   method setJobRole(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[22,10] cannot find symbol
+[ERROR]   symbol:   method setDifficulty(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[23,10] cannot find symbol
+[ERROR]   symbol:   method setQuestion(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[24,10] cannot find symbol
+[ERROR]   symbol:   method setShortAnswer(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[25,10] cannot find symbol
+[ERROR]   symbol:   method setLongAnswer(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[27,14] cannot find symbol
+[ERROR]   symbol:   method setOptions(java.util.List<java.lang.String>)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[30,14] cannot find symbol
+[ERROR]   symbol:   method setCorrectAnswer(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[31,10] cannot find symbol
+[ERROR]   symbol:   method setCompleted(boolean)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[38,14] cannot find symbol
+[ERROR]   symbol:   method setUserId(java.lang.Long)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[39,14] cannot find symbol
+[ERROR]   symbol:   method setSessionId(long)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[40,14] cannot find symbol
+[ERROR]   symbol:   method setJobRole(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[41,14] cannot find symbol
+[ERROR]   symbol:   method setDifficulty(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[42,14] cannot find symbol
+[ERROR]   symbol:   method setQuestion(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[43,14] cannot find symbol
+[ERROR]   symbol:   method setShortAnswer(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[44,14] cannot find symbol
+[ERROR]   symbol:   method setLongAnswer(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[46,18] cannot find symbol
+[ERROR]   symbol:   method setOptions(java.util.List<java.lang.String>)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedInterviewQuestionService.java:[49,18] cannot find symbol
+[ERROR]   symbol:   method setCorrectAnswer(java.lang.String)
+[ERROR]   location: variable q of type com.prismhire.entity.SavedInterviewQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[26,10] cannot find symbol
+[ERROR]   symbol:   method setUserId(java.lang.Long)
+[ERROR]   location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[27,10] cannot find symbol
+[ERROR]   symbol:   method setSessionName(java.lang.String)
+[ERROR]   location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[28,10] cannot find symbol
+[ERROR]   symbol:   method setJobRole(java.lang.String)
+[ERROR]   location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[29,10] cannot find symbol
+[ERROR]   symbol:   method setYearsOfExperience(yearsOfExp[...] : "")
+[ERROR]   location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[30,10] cannot find symbol
+[ERROR]   symbol:   method setTopicsToFocus(topicsToFo[...] : "")
+[ERROR]   location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[31,10] cannot find symbol
+[ERROR]   symbol:   method setJobDescription(jobDescrip[...] : "")
+[ERROR]   location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[32,10] cannot find symbol
+[ERROR]   symbol:   method setActive(boolean)
+[ERROR]   location: variable s of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SessionService.java:[45,16] cannot find symbol
+[ERROR]   symbol:   method setActive(boolean)
+[ERROR]   location: variable session of type com.prismhire.entity.Session
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[26,20] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[26,49] cannot find symbol
+[ERROR]   symbol:   method getEmail()
+[ERROR]   location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[26,79] cannot find symbol
+[ERROR]   symbol:   method getPassword()
+[ERROR]   location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[30,49] cannot find symbol
+[ERROR]   symbol:   method getEmail()
+[ERROR]   location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[35,29] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[36,30] cannot find symbol
+[ERROR]   symbol:   method getEmail()
+[ERROR]   location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[37,56] cannot find symbol
+[ERROR]   symbol:   method getPassword()
+[ERROR]   location: variable request of type com.prismhire.dto.RegisterRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[38,13] cannot find symbol
+[ERROR]   symbol:   method setProfilePicture(java.lang.String)
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[39,13] cannot find symbol
+[ERROR]   symbol:   method setTheme(com.prismhire.entity.User.Theme)
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[42,55] cannot find symbol
+[ERROR]   symbol:   method getId()
+[ERROR]   location: variable savedUser of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[42,74] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable savedUser of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[44,16] constructor AuthResponse in class com.prismhire.dto.AuthResponse cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    java.lang.String,com.prismhire.dto.AuthResponse.UserDto
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[48,55] cannot find symbol
+[ERROR]   symbol:   method getEmail()
+[ERROR]   location: variable request of type com.prismhire.dto.LoginRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[51,45] cannot find symbol
+[ERROR]   symbol:   method getPassword()
+[ERROR]   location: variable request of type com.prismhire.dto.LoginRequest
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[51,65] cannot find symbol
+[ERROR]   symbol:   method getPassword()
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[55,50] cannot find symbol
+[ERROR]   symbol:   method getId()
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[55,64] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[56,16] constructor AuthResponse in class com.prismhire.dto.AuthResponse cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    java.lang.String,com.prismhire.dto.AuthResponse.UserDto
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,92] cannot find symbol
+[ERROR]   symbol:   method getProfilePicture()
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,75] cannot find symbol
+[ERROR]   symbol:   method getEmail()
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,59] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/AuthService.java:[60,45] cannot find symbol
+[ERROR]   symbol:   method getId()
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[20,15] cannot find symbol
+[ERROR]   symbol:   method setUserId(java.lang.Long)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[23,23] cannot find symbol
+[ERROR]   symbol:   method setSessionId(long)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[27,15] cannot find symbol
+[ERROR]   symbol:   method setJobRole(java.lang.String)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[28,15] cannot find symbol
+[ERROR]   symbol:   method setDifficulty(java.lang.String)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[29,15] cannot find symbol
+[ERROR]   symbol:   method setText(java.lang.String)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[30,15] cannot find symbol
+[ERROR]   symbol:   method setType(java.lang.String)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[32,19] cannot find symbol
+[ERROR]   symbol:   method setOptions(java.util.List<java.lang.String>)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/SavedQuestionService.java:[35,19] cannot find symbol
+[ERROR]   symbol:   method setCorrectAnswer(java.lang.String)
+[ERROR]   location: variable sq of type com.prismhire.entity.SavedQuestion
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[36,17] cannot find symbol
+[ERROR]   symbol:   method setName(java.lang.String)
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[38,17] cannot find symbol
+[ERROR]   symbol:   method setEmail(java.lang.String)
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[40,17] cannot find symbol
+[ERROR]   symbol:   method setProfilePicture(body.get("[...] : "")
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[44,21] cannot find symbol
+[ERROR]   symbol:   method setTheme(com.prismhire.entity.User.Theme)
+[ERROR]   location: variable user of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[55,22] cannot find symbol
+[ERROR]   symbol:   method getId()
+[ERROR]   location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[56,24] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[57,25] cannot find symbol
+[ERROR]   symbol:   method getEmail()
+[ERROR]   location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[58,34] cannot find symbol
+[ERROR]   symbol:   method getProfilePicture()
+[ERROR]   location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[59,25] cannot find symbol
+[ERROR]   symbol:   method getTheme()
+[ERROR]   location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/UserController.java:[60,29] cannot find symbol
+[ERROR]   symbol:   method getCreatedAt()
+[ERROR]   location: variable u of type com.prismhire.entity.User
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/controller/ResumeController.java:[56,48] cannot find symbol
+[ERROR]   symbol:   method getId()
+[ERROR]   location: variable analysis of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[130,11] cannot find symbol
+[ERROR]   symbol:   method setUserId(java.lang.Long)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[131,11] cannot find symbol
+[ERROR]   symbol:   method setRole(java.lang.String)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[132,11] cannot find symbol
+[ERROR]   symbol:   method setJobDescription(java.lang.String)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[133,11] cannot find symbol
+[ERROR]   symbol:   method setResumeText(resumeText[...]eText)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[134,11] cannot find symbol
+[ERROR]   symbol:   method setResumeFileName(java.lang.String)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[135,11] cannot find symbol
+[ERROR]   symbol:   method setAtsScore(double)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[136,11] cannot find symbol
+[ERROR]   symbol:   method setSkillMatchScore(double)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[137,11] cannot find symbol
+[ERROR]   symbol:   method setKeywordMatchScore(double)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[138,11] cannot find symbol
+[ERROR]   symbol:   method setRoleRelevanceScore(double)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[139,11] cannot find symbol
+[ERROR]   symbol:   method setMatchedSkills(java.util.List<java.lang.String>)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[140,11] cannot find symbol
+[ERROR]   symbol:   method setMissingSkills(java.util.List<java.lang.String>)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[141,11] cannot find symbol
+[ERROR]   symbol:   method setMatchedKeywordsPercent(double)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] /C:/Users/chait/Desktop/WEB/PRISMHIRE/Prism Hire/server-java/src/main/java/com/prismhire/service/ResumeService.java:[142,11] cannot find symbol
+[ERROR]   symbol:   method setSuggestions(java.util.List<java.lang.String>)
+[ERROR]   location: variable ra of type com.prismhire.entity.ResumeAnalysis
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
